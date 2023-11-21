@@ -7,8 +7,8 @@ export default function index() {
   return (
     <div>
       <div className="forms">
-                <h1 style={{fontSize:'100%',fontFamily:'Gilroy-Bold', fontWeight:"Bold"}}>ENQUIRY FORM</h1>
-                <h4 style={{fontWeight:'Regular'}}>Your gateway to reaching out and connecting with us. We value your feedback, inquiries, and suggestions, and we are here to assist you in any way we can.</h4>
+                <h1 style={{fontSize:'100%',fontFamily:'Gilroy-Bold', fontWeight:"Bold", fontSize:"3vw"}}>ENQUIRY FORM</h1>
+                <h4 style={{fontWeight:'Regular', fontSize:"1vw"}}>Your gateway to reaching out and connecting with us. We value your feedback, inquiries, and suggestions, and we are here to assist you in any way we can.</h4>
                 <input type="text" placeholder="Your Name" />
                 <div className="phem">
                 <input type="text" placeholder="Phone Number" />

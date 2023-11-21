@@ -27,6 +27,8 @@
     margin-top: 15px;
     border: none;
     border-bottom: 1px solid black;
+    height: 10vw;
+    font-size:2vw ;
 }
 
 .forms :nth-child(4){
@@ -38,11 +40,10 @@
 }
 
 .forms button{ 
-    display: flex;
     color: white;
     padding: 4px;
-    font-size: 0.8rem;
-    width:10%;
+    font-size:1vw;
+    width:15%;
     margin: auto;
     margin-top: 5px;
     background-color: #8A2429;
